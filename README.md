@@ -15,4 +15,4 @@ Github Actions版本<br>
 
 ### 如需使用免翻墙网址，请自行在javbus.py中查找javbus.com（总共三处）并替换为免翻墙网址
 
-1
+0
